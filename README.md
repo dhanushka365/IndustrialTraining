@@ -1,2 +1,2 @@
 # IndustrialTraining
-## This repo Contains the finall report and the Industrial Training module final viva peresentation
+## This repo Contains the Industrial Training module final report and the final viva peresentation
